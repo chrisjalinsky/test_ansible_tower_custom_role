@@ -1,0 +1,4 @@
+- name: Hello World test custom role
+  hosts: all
+  roles:
+    - role: tester
